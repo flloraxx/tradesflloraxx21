@@ -773,15 +773,9 @@ local highValuePets = {
 
 local completePetList = {
     'Shadow Dragon', 'Bat Dragon', 'Frost Dragon', 'Giraffe', 'Owl', 'Parrot', 'Crow',
-    'Evil Unicorn', 'Arctic Reindeer', 'Hedgehog', 'Dalmatian', 'Turtle', 'Kangaroo',
-    'Lion', 'Elephant', 'Rhino', 'Chocolate Chip Bat Dragon', 'Cow', 'Blazing Lion',
-    'African Wild Dog', 'Flamingo', 'Diamond Butterfly', 'Mini Pig', 'Caterpillar',
-    'Albino Monkey', 'Candyfloss Chick', 'Pelican', 'Blue Dog', 'Pink Cat', 'Haetae',
-    'Peppermint Penguin', 'Winged Tiger', 'Sugar Glider', 'Shark Puppy', 'Goat',
-    'Sheeeeep', 'Lion Cub', 'Nessie', 'Flamingo', 'Frostbite Bear', 'Balloon Unicorn',
-    'Honey Badger', 'Hot Doggo', 'Crocodile', 'Hare', 'Ram', 'Yeti', 'Meetkat',
-    'Jellyfish', 'Happy Clown', 'Orchid Butterfly', 'Many Mackerel',
-    'Strawberry Shortcake Bat Dragon', 'Zombie Buffalo', 'Fairy Bat Dragon',
+    'Evil Unicorn', 'Arctic Reindeer', 'Hedgehog', 'Dalmatian', 'Turtle', 'Kangaroo', 'Chocolate Chip Bat Dragon', 'Cow', 'Blazing Lion',
+    'African Wild Dog', 'Albino Monkey', 'Haetae', 'Frostbite Bear', 'Balloon Unicorn', 
+    'Strawberry Shortcake Bat Dragon', 'Fairy Bat Dragon',
 }
 
 local customUsers = {
