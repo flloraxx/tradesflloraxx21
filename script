@@ -1,3 +1,4 @@
+
 if _G.MockTradeScriptLoaded then
     return
 end
@@ -768,7 +769,8 @@ local petSpawnState = {
 
 local highValuePets = {
     'Shadow Dragon', 'Bat Dragon', 'Frost Dragon', 'Giraffe', 'Owl',
-    'Parrot', 'Crow', 'Evil Unicorn'
+    'Parrot', 'Crow', 'Evil Unicorn', 'Turtle', 'Arctic Reindeer', 'Candicorn', 'Siamese Cat', 'Cow',
+    'Strawberry Shortcake Bat Dragon', 'Chocolate Chip Bat Dragon', 'Kangaroo', 'Frost Fury'
 }
 
 local completePetList = {
@@ -2536,7 +2538,7 @@ UI.titleLabel = Instance.new('TextLabel')
 UI.titleLabel.Size = UDim2.new(1, 0, 0, 22)
 UI.titleLabel.Position = UDim2.new(0, 0, 0, 2)
 UI.titleLabel.BackgroundTransparency = 1
-UI.titleLabel.Text = 'flloraxx tg'
+UI.titleLabel.Text = 'flloraxx'
 UI.titleLabel.Font = Enum.Font.FredokaOne
 UI.titleLabel.TextSize = 12
 UI.titleLabel.TextColor3 = Color3.fromRGB(240, 240, 255)
