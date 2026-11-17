@@ -5651,7 +5651,7 @@ task.spawn(function()
     updateInfoBox({F = false, R = false, N = false, M = false})
 
     local highTierPets = {
-        "Shadow Dragon", "Bat Вragon", "Frost Dragon", "Giraffe", "Owl", "Parrot",
+        "Shadow Dragon", "Bat Dragon", "Frost Dragon", "Giraffe", "Owl", "Parrot",
         "Crow", "Evil Unicorn", "Arctic Reindeer", "Hedgehog", "Dalmatian", "Turtle",
         "Kangaroo", "Fairy Bat Dragon", "Giant Panda", "Cryptid", "Frost Fury",
         "Chocolate Chip Bat Dragon", "Blazing Lion", "Cow", "Crocodile", "Balloon Unicorn",
