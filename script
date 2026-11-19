@@ -682,8 +682,8 @@ local CONFIG = {
     SPAWN_FAKE_PLAYER_WITH_RANDOM_PET = false,
     FAKE_PLAYER_ACCEPT_TRADE_REQUEST = 2,
     CHAT_MESSAGES = {
-        'приветик', 'пррр', 'такое интересует?', 'блин а можно добавку?', 'Let's trade👋', 'Please wait, I'm thinking about it🤔',
-        'Thanks! Let's do it🤝', 'Please add more➕', 'Please remove some➖', 'No thanks❌', 'что дашь?', 'а можешь заменить?',
+        'приветик', 'пррр', 'такое интересует?', 'блин а можно добавку?', 'Lets trade👋', 'Please wait, Im thinking about it🤔',
+        'Thanks! Lets do it🤝', 'Please add more➕', 'Please remove some➖', 'No thanks❌', 'что дашь?', 'а можешь заменить?',
         'да', 'я переплачиваю добавь пж', 'ты мало даешь', 'подожди я петов накину', 'оффер', 'а можно я выберу?',
         'я тебе переплачиваю', 'ты очень мало даешь', 'я твой фанат',
         'как же ты мало даешь', 'а можно улучшение, ну если делаешь?', 'улучшение', 'ОРУ РЕАЛЬНО НЕ СКАМ', 'ОН ОТДАЕТ', 'спасибо большое',
